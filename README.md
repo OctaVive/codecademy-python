@@ -1,5 +1,3 @@
 # codecademy-python
-Repository containing scripts for personal educational purposes.
+Repository containing scripts for my own use for learning Python.
 
-# DISCLAIMER
-  DO NOT USE THIS REPO FOR ACTUAL DEVELOPMENT PURPOSES.
