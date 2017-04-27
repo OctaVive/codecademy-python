@@ -1,4 +1,4 @@
-# Calculating Taxes
+# Calculating Taxes, the long way. meal2 is easier and shorter.
 
 meal = 44.50
 tax = 0.0675
