@@ -49,7 +49,7 @@ print(drink_item) # Prints name of drink on receipt.
 print("TAX = {}%".format(tax_percent)) # Prints tax
 print("PRICE = ${:.2f}".format(total_price)) # Prints total price
 
-
+pause = input("Press any key to continue ")
 
 
 
