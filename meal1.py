@@ -1,4 +1,4 @@
-# Calculating Taxes, the long way. meal2 is easier and shorter.
+# Calculating Taxes, the long way. meal2 is easier and shorter.nm
 
 meal = 44.50
 tax = 0.0675
