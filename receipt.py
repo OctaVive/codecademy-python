@@ -51,7 +51,7 @@ print("PRICE = ${:.2f}".format(total_price)) # Prints total price
 
 pause = input("Press any key to continue ")
 
-
+print("Hello world!")
 
 
 
